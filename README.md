@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajubarman365" target="blank"><img src="https://img.shields.io/twitter/follow/rajubarman365?logo=twitter&style=for-the-badge" alt="rajubarman365" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 💬 Ask me about **react ,nodejs**
 
