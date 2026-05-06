@@ -1,5 +1,4 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-md id="gh-premium-readme"
 
 <h1 align="center">Hi 👋, I'm Raju Barman</h1>
 
@@ -55,15 +54,18 @@ src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-
 
 ---
 
+```md
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raju365&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raju365&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju365&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju365&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 
 </p>
+```
+
 
 ---
 
