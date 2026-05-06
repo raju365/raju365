@@ -52,7 +52,6 @@ src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-
 
 ---
 
-```md
 # 📊 GitHub Stats
 
 <p align="center">
@@ -62,7 +61,7 @@ src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju365&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 
 </p>
-```
+
 
 
 ---
